@@ -1,0 +1,9 @@
+[submodule "IZV1"]
+	path = IZV1
+	url = git@github.com:Radluy/IZV1.git
+[submodule "IZV2"]
+	path = IZV2
+	url = git@github.com:Radluy/IZV2.git
+[submodule "IZV3"]
+	path = IZV3
+	url = git@github.com:Radluy/IZV3.git
